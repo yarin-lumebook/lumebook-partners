@@ -1,0 +1,427 @@
+{
+  "lang": "en",
+  "dir": "ltr",
+  "locale": "en_IL",
+  "hreflang": "en-IL",
+  "native_name": "English",
+  "title": "Partnerships for children's book authors and early-childhood professionals | LumeBook",
+  "description": "Do you have a story, an early idea or professional knowledge from working with children and parents? Let's explore a partnership around a personalized book where the child becomes part of the story.",
+  "review_flag": "Review version. The page is not on the LumeBook site yet, and the form is not yet connected to an intake system.",
+  "skip": "Skip to main content",
+  "logo_aria": "LumeBook, to the site home page",
+  "nav_aria": "Main navigation",
+  "nav_store": "Children's books",
+  "nav_amb": "Ambassador program",
+  "nav_cta": "Get in touch",
+  "lang_aria": "Page language",
+  "hero": {
+    "eyebrow": "For authors and early-childhood professionals",
+    "h1": "Your knowledge and your stories can become a personalized children's book",
+    "lede": "Do you have a story you wrote, an early idea, or knowledge from working with children and parents? Let's explore a partnership around a book where each child becomes part of the story, with their name and an illustrated likeness.",
+    "cta1": "Let's talk about your idea",
+    "cta2": "How does it work?",
+    "can_apply": "You can get in touch",
+    "tags": [
+      "Even without a finished manuscript",
+      "Even without a large social media audience",
+      "Even without publishing experience"
+    ],
+    "h1_em": "a personalized children's book"
+  },
+  "flow": {
+    "title": "What a personal book looks like",
+    "intro": "An example from LumeBook's books: one story, and every child gets a version with their own name and illustrated character.",
+    "steps": [
+      [
+        "Your story or knowledge",
+        "A text, an idea or a method from your work with children and parents."
+      ],
+      [
+        "Every child inside the story",
+        "The same story, with each child's name and illustrated character."
+      ],
+      [
+        "A printed book at home",
+        "A printed book that arrives at the child's home."
+      ]
+    ],
+    "covers_alt": "Two birthday books: the same story, a different child on the cover",
+    "video_alt": "A printed personal book, its cover and pages",
+    "fine": "The pictures on this page are examples for illustration."
+  },
+  "who": {
+    "title": "Where are you starting from?",
+    "intro": "There are two starting points. Pick the one that is closer to you, and you can change it in the form.",
+    "cards": [
+      {
+        "title": "I have a story or a book",
+        "text": "Did you write a story, do you have a draft, or has a children's book of yours already come out? We will explore together whether it can become a personalized book, where the child appears with their name and an illustrated likeness.",
+        "btn": "Get in touch about a story or book"
+      },
+      {
+        "title": "I have professional knowledge or an idea",
+        "text": "You work with children and parents and you have knowledge, a method or an idea for a book, but you have not written it yet? That is a good starting point for a conversation too.",
+        "tags_aria": "Examples of fields",
+        "tags": [
+          "Parent guidance and family counseling",
+          "Sleep consulting",
+          "Diaper-free transition",
+          "Speech-language therapy",
+          "Occupational therapy",
+          "Child psychology",
+          "Bibliotherapy",
+          "Early-childhood classes and workshops"
+        ],
+        "note": "Not on the list? You can still write to us.",
+        "btn": "Get in touch about knowledge or an idea"
+      }
+    ],
+    "fine": ""
+  },
+  "topics": {
+    "title": "Topics we can explore",
+    "intro": "These are illustrative examples, not existing books and not a promise of any result. Every idea is reviewed on its own merits.",
+    "items": [
+      [
+        "Evenings and sleep",
+        "A story around the evening routine, from the bath to goodnight."
+      ],
+      [
+        "The potty and saying goodbye to diapers",
+        "A story about the first steps with the potty and the goodbye to diapers."
+      ],
+      [
+        "Feelings, frustration and family relationships",
+        "A story about big feelings, anger and frustration, and life with siblings and parents."
+      ],
+      [
+        "Starting preschool and transitions",
+        "A story about the first morning at preschool, about separating, and about moving between settings."
+      ],
+      [
+        "Play, communication and everyday experiences",
+        "A story about playing together, about conversation, and about small everyday moments."
+      ],
+      [
+        "A story connected to a class or workshop",
+        "A story that builds on what happens in an early-childhood class or workshop."
+      ]
+    ]
+  },
+  "include": {
+    "title": "What a partnership includes",
+    "intro": "Exactly what is included is set out in a written agreement before you start, and every idea is reviewed on its own merits.",
+    "items": [
+      [
+        "Suitability review",
+        "Together we look at whether the idea fits a personalized book, where the child appears with their name and an illustrated likeness."
+      ],
+      [
+        "A dedicated book page",
+        "A book page on the site with your name and professional background, worded as we agree together."
+      ],
+      [
+        "Compensation tied to sales",
+        "Compensation is tied to sales of the agreed book. The amount and how it is calculated are set in the written agreement."
+      ],
+      [
+        "A printed copy",
+        "A printed copy of the book."
+      ],
+      [
+        "Joint content and promotion",
+        "We can coordinate content and promotion for the book, in a scope agreed in advance between the parties."
+      ],
+      [
+        "Monthly reporting",
+        "A monthly report on sales and compensation."
+      ]
+    ],
+    "note": "What each side does in writing, review, production and marketing is defined before work starts, in writing.",
+    "author_page": {
+      "label": "Example of a dedicated book page",
+      "name": "Your name",
+      "role": "Your professional background"
+    }
+  },
+  "how": {
+    "title": "How does it work?",
+    "intro": "From your inquiry to the launch, in six steps.",
+    "steps": [
+      [
+        "Inquiry",
+        "A short form about your idea, the subject and the audience."
+      ],
+      [
+        "Suitability review",
+        "We read the inquiry, and if there may be a fit we continue to a conversation."
+      ],
+      [
+        "Defining the idea and responsibilities",
+        "We talk about the idea and about what each side does."
+      ],
+      [
+        "Written agreement",
+        "The terms are set out in a written agreement before work starts."
+      ],
+      [
+        "Preparing and reviewing the book",
+        "The book is prepared and reviewed together, as defined in the agreement."
+      ],
+      [
+        "Launch and reporting",
+        "The agreed promotion begins, and you receive reports as set out in the agreement."
+      ]
+    ],
+    "fine": "There are no fixed timelines here. The pace depends on the idea and on the agreement."
+  },
+  "agree": {
+    "title": "What we agree together",
+    "intro": "The written agreement covers the following topics.",
+    "items": [
+      [
+        "Compensation and how it is calculated",
+        "What is received, from what, and how it is calculated."
+      ],
+      [
+        "Each side's responsibilities",
+        "Who does what in writing, production and marketing."
+      ],
+      [
+        "Content and promotion",
+        "What is committed to be published, and in what scope."
+      ],
+      [
+        "Creative and professional review",
+        "Who reviews the content and who approves the final wording."
+      ],
+      [
+        "Rights and permitted uses",
+        "What may be done with the text and the content, and for which uses."
+      ],
+      [
+        "Publishing elsewhere",
+        "What is possible alongside the partnership."
+      ],
+      [
+        "Reporting, payment and ending",
+        "How reporting works, how and when payment is made, and how the partnership ends."
+      ]
+    ],
+    "note": "This page explains the process and is not an agreement. Sending the form does not bind either side."
+  },
+  "faq": {
+    "title": "Questions and answers",
+    "items": [
+      [
+        "Do I need a finished manuscript?",
+        "No. You can get in touch with a written story, an existing book, an early idea or professional knowledge alone. There is no need to attach a manuscript to the form. If you have a text, we will be glad to hear about it later."
+      ],
+      [
+        "Can I apply with professional expertise or an early idea?",
+        "Yes. The form is also for people who work with children and parents and have not written a book yet. In the conversation we look at whether the knowledge or idea can become a story that fits a personalized book."
+      ],
+      [
+        "Do I need a social media audience?",
+        "No. A large audience is not needed, and the form does not ask for follower numbers. If we reach an agreement, it will set out which content and promotion suit both sides."
+      ],
+      [
+        "Who writes and who approves the content?",
+        "This is decided before work starts and written into the agreement. Among other things it defines who writes, who reviews the content professionally and who approves the final wording."
+      ],
+      [
+        "How is compensation determined?",
+        "Compensation is tied to sales of the agreed book and is set in the written agreement, including how it is calculated. There is no promise of income or of a number of sales."
+      ],
+      [
+        "What promotion is expected of me?",
+        "We can talk about joint content and promotion, in a scope agreed in advance between the parties. Everything is set in the agreement, not in the form."
+      ],
+      [
+        "What happens to the rights in an existing text?",
+        "The rights in the text and the permitted uses are set out in the written agreement. Sending the form does not transfer any rights. If the text has already been published or is with a publisher, please say so in your inquiry so we can look at what is possible."
+      ],
+      [
+        "Can I also work with a publisher?",
+        "You can mention in your inquiry if you already work with a publisher. What is possible alongside the partnership, and on what terms, is set out in the agreement."
+      ],
+      [
+        "How can the partnership end?",
+        "The terms for ending, including the timing and how to give notice, are set in the written agreement before you start. Sending the form does not bind either side, and you can stop at any stage."
+      ],
+      [
+        "How is this different from the ambassador program?",
+        "The ambassador program is for content creators who promote existing books with a personal link. This is a partnership around an original book or professional knowledge, with its terms set in a separate agreement. Sending the form is not joining the ambassador program, does not create a personal link and does not bind either side."
+      ]
+    ]
+  },
+  "form": {
+    "title": "Let's talk about your idea",
+    "intro": "Tell us briefly. The form is a request for a suitability conversation, not an agreement and not a commitment by either side.",
+    "noscript_title": "The form needs JavaScript",
+    "noscript_text": "You can write to us on WhatsApp or by email, and we will continue from there.",
+    "whatsapp": "WhatsApp",
+    "lead": "All fields are required, except those marked \"optional\".",
+    "optional": "(optional)",
+    "name": "Full name",
+    "field": "Professional field or author background",
+    "field_placeholder": "Choose a field",
+    "field_options": [
+      [
+        "author",
+        "Author of children's books"
+      ],
+      [
+        "parenting",
+        "Parent guidance or family counseling"
+      ],
+      [
+        "sleep",
+        "Sleep consulting"
+      ],
+      [
+        "potty",
+        "Diaper-free transition consulting"
+      ],
+      [
+        "slp",
+        "Speech-language therapy"
+      ],
+      [
+        "ot",
+        "Occupational therapy"
+      ],
+      [
+        "psychology",
+        "Child psychology"
+      ],
+      [
+        "biblio",
+        "Bibliotherapy"
+      ],
+      [
+        "classes",
+        "Early-childhood classes and workshops"
+      ],
+      [
+        "other",
+        "Another field or a mix, I will write it myself"
+      ]
+    ],
+    "other": "Your field or background",
+    "email": "Email",
+    "wa": "WhatsApp",
+    "profile": "Website or professional profile",
+    "start": "Starting point",
+    "start_options": [
+      [
+        "expertise",
+        "Professional knowledge",
+        "I have not written a book yet"
+      ],
+      [
+        "idea",
+        "An early idea",
+        "There is a subject or direction, no text"
+      ],
+      [
+        "story",
+        "A written story",
+        "A draft or a story I wrote"
+      ],
+      [
+        "book",
+        "An existing book",
+        "A book that is already written or published"
+      ]
+    ],
+    "rights": "Do you hold the rights to use this text?",
+    "rights_hint": "This is only a question to align expectations, not a legal declaration. The rights themselves are set in the written agreement.",
+    "rights_options": [
+      [
+        "yes",
+        "Yes, I hold the rights to the text"
+      ],
+      [
+        "unsure",
+        "I am not sure, I would like to check"
+      ],
+      [
+        "publisher",
+        "The text was published or is with a publisher"
+      ]
+    ],
+    "desc": "About what, and for whom?",
+    "desc_hint": "In a few sentences: what the subject or knowledge is, and which children or parents it is for. Please do not include identifying details of children, patients or clients, and do not attach a manuscript.",
+    "counter": "{n} of {max}",
+    "book_title": "Book title or working title",
+    "honeypot": "Do not fill in this field",
+    "submit": "Send the inquiry",
+    "note1": "By sending the inquiry, your details will be used by the LumeBook team to get in touch about it. More in the {link}.",
+    "note1_link": "privacy policy",
+    "note2": "The form is not an agreement and is not joining the ambassador program. There is no need to attach a manuscript, photos of children, or details about patients or clients."
+  },
+  "closing": {
+    "title": "Have an idea? Let's see whether it can become a book",
+    "text": "You can start from a small story or from knowledge you use working with children. Tell us what you have, and we will look together at what is possible.",
+    "cta": "To the inquiry form",
+    "wa": "Questions before you fill it in? Write to us on WhatsApp",
+    "video_alt": "A child by the window reading a book in which he is the hero",
+    "gallery_label": "From LumeBook's books"
+  },
+  "footer": {
+    "disclaimer": "The books and content on this page are not treatment, diagnosis or a substitute for professional care for children and families.",
+    "store": "Back to the site",
+    "amb": "Ambassador program",
+    "privacy": "Privacy policy",
+    "nav_aria": "Footer links"
+  },
+  "js": {
+    "errors": {
+      "fullName": "Please enter your full name",
+      "field": "Please choose a field from the list",
+      "fieldOther": "Please write your field or background",
+      "email": "Please enter a valid email address, for example name@example.com",
+      "whatsapp": "The number does not look valid. You can also leave the field empty",
+      "profile": "The link does not look valid. You can also leave the field empty",
+      "start": "Please choose a starting point",
+      "rights": "Please choose an answer. \"I am not sure\" is also a fine answer",
+      "description": "Please tell us in a few sentences about the subject and the audience, at least 20 characters"
+    },
+    "summary_title": "Please complete a few details before sending:",
+    "summary_live": "{n} fields need your attention",
+    "sending": "Sending",
+    "sending_live": "Sending the inquiry",
+    "handoff_title": "The inquiry is ready, and still needs to be sent",
+    "handoff_text": "The form is not yet connected to an intake system, so nothing has been sent so far. For the inquiry to reach us, send it by WhatsApp or by email. The message is already written with the details you filled in.",
+    "handoff_live": "The inquiry is ready to send by WhatsApp or email",
+    "btn_whatsapp": "Send on WhatsApp",
+    "btn_email": "Send by email",
+    "btn_copy": "Copy the inquiry",
+    "btn_edit": "Back to editing",
+    "copied": "The inquiry was copied",
+    "copy_fail": "Automatic copying is not available in this browser. The text is selected, and you can copy it manually.",
+    "success_title": "The inquiry was received",
+    "success_text": "Thank you for telling us about your idea. We read the inquiry, and if there may be a fit we continue to a conversation. The inquiry is not an agreement and does not bind either side.",
+    "success_live": "The inquiry was received",
+    "btn_again": "Another inquiry",
+    "failure_title": "We could not send it",
+    "failure_text": "Something went wrong and the inquiry was not received. You can try again, or send it by WhatsApp or email. The details you filled in are still here.",
+    "failure_live": "We could not send the inquiry",
+    "btn_retry": "Back to the form",
+    "msg_greeting": "Hello, I am getting in touch about a partnership with LumeBook.",
+    "msg_name": "Name",
+    "msg_field": "Field or background",
+    "msg_other_field": "Another field or a mix",
+    "msg_start": "Starting point",
+    "msg_rights": "Rights to the text",
+    "msg_title": "Book title or working title",
+    "msg_about": "About what and for whom",
+    "msg_email": "Email",
+    "msg_whatsapp": "WhatsApp",
+    "msg_profile": "Website or profile",
+    "msg_subject": "Partnership inquiry, LumeBook"
+  },
+  "video_play": "Play the video",
+  "video_pause": "Pause the video"
+}

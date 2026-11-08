@@ -1,0 +1,5 @@
+README.md
+src/
+lint_copy.py
+__pycache__/
+.gitignore
